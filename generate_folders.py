@@ -46,3 +46,9 @@ Each day has its own folder, which contains the following files:
 
    ```bash
    git clone https://github.com/yourusername/45-days-dsa-challenge.git
+
+
+
+
+```bash
+   python generate_folders.py
