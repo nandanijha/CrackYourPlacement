@@ -11,7 +11,7 @@ Welcome to my journey through the 45 Days of DSA (Data Structures and Algorithms
 - [Daily Progress](#daily-progress)
 - [Folder Structure](#folder-structure)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Contributing](#contributing)
+
 
 ## Introduction
 
